@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saisrinivas9
-- 👀 I’m interested in machinelearning and deeplearning
-- 🌱 I’m currently studing Electronics and Communication Engineering in RGUKT Nuzvid
-- 
+- 👀 I’m interested in Embedded Systems ,Machine learning and DeepLearning
+- 🌱 I’m currently a Final Year student studing Electronics and Communication Engineering in RGUKT Nuzvid
+  
 - 📫 reach me on bogapurapusaisrinivas@gmail.com
 
 <!---
