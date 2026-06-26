@@ -4,7 +4,6 @@
 
 # Hi 👋 I'm Srinivas Bogapurapu
 
-# Hi 👋 I'm Srinivas
 ### Embedded Systems Engineer
 
 I love getting close to the hardware and building robust firmware for **ARM Cortex-M** microcontrollers. I enjoy turning complex hardware constraints into elegant software solutions.
