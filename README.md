@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
+
+# Hi 👋 I'm Srinivas Bogapurapu
+
 # Hi 👋 I'm Srinivas
 ### Embedded Systems Engineer
 
